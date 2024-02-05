@@ -26,7 +26,7 @@ Realización de la estructura de la api metro
 #### Actualizacion de rutas
 ![image](https://github.com/JaredVS777/Laboratorio25_26_Web_Apimetro/assets/126533404/623c8e8c-6bb9-434d-a981-095af572cbe8)
 ![image](https://github.com/JaredVS777/Laboratorio25_26_Web_Apimetro/assets/126533404/10562c61-20ed-453c-9659-fe622fa99ada)
-#### Despliegue
+#### Despliegue Netlify
 ![image](https://github.com/JaredVS777/Laboratorio25_26_Web_Apimetro/assets/126533404/b2ddf7ab-e5d0-4556-a468-1f5568064f4d)
 ![image](https://github.com/JaredVS777/Laboratorio25_26_Web_Apimetro/assets/126533404/5f0fdfcf-1cfb-445f-905f-617f1cbdbebf)
 
